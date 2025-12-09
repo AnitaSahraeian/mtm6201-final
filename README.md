@@ -1,17 +1,17 @@
-# mtm6201-final
+# MTM6201 – Final Website Project
 
-## Design Source
-https://www.figma.com/proto/mcxVVJrIjhRDosw6ZpKRod/Nutritionist---Light-Theme-Healthy-Diet-Planning-Website-UI-Design-Template---FREE-Editable----Community-?node-id=31-47&t=TLrGfg13KpZ3dDRw-1
+This project was created using Bootstrap 5 and the design guidelines from my User Experience Design course.
 
-## Interview Questions
+## Figma Designs
+Here is the link to my Figma file that includes:
+- Wireframes
+- Mockups
+- Prototype
+- Design Elements
 
-### Tell us about your process, challenges you faced during development and how you overcame those changes.
-My process began with analyzing the requirements and creating high-fidelity wireframes in Figma to establish the layout. During development, my biggest challenge was ensuring the images resized correctly without losing quality or Aspect Ratio. I overcame this by researching and implementing the HTML `<picture>` tag with `srcset`, allowing the browser to serve different image sizes based on the viewport width.
+🔗 *Figma File:*  
+https://www.figma.com/design/v9hYRBqVqP4qFgTDFH1vVS/mtm6201-final-Anita-Sahraeian?node-id=0-1&t=YvghMWOKYQPa4QDs-1
 
-### What have you learned by creating this project?
-I learned how to effectively combine the Bootstrap 5 framework with custom CSS variables to create a unique brand identity that doesn't look like a default Bootstrap site. I also gained experience in web accessibility, specifically implementing Skip Links and ARIA roles to assist screen reader users.
-
-## Credits & Resources used
-* **Framework:** Bootstrap 5.3.2
-* **CSS Library:** Animate.css
-* **Fonts:** System UI stack
+## Instructor Access
+You have been added as a Commentor.  
+Email invited: *kaura5@algonquincollege.com*
